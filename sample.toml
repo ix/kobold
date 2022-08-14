@@ -1,0 +1,7 @@
+name = "en"
+
+[[layers]]
+name = "alpha"
+rows = [
+  [ { display = "A", code = 'A', width = 1.0 } ]
+]
