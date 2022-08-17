@@ -5,3 +5,11 @@ name = "alpha"
 rows = [
   [ { display = "A", code = 'A', width = 1.0 } ]
 ]
+
+#  REGULAR  
+#   ╭───╮   
+#   │ A │   
+#   ╰───╯   
+#   SMALL   
+#    A┃B┃   
+#    ━┛━┛   
